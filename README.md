@@ -1,0 +1,2 @@
+# MySkyView
+MySkyView SwiftPackage
